@@ -1,1 +1,1 @@
-Code for Coursera's Mastering Software Development in R - Part 4
+Code for Coursera's R programming specialization-Part 4
